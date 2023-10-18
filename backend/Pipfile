@@ -35,3 +35,4 @@ django-import-export = "*"
 drf-spectacular = "~=0.25.1"
 cb-basiq-payments = {editable = true, path = "./modules/basiq_payments"}
 cb-payments = {editable = true, path = "./modules/payments"}
+cb-django-terms-and-conditions = {editable = true, path = "./modules/django_terms_and_conditions"}
